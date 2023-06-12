@@ -1,7 +1,7 @@
 # SendBot
 ## Установка/Install
 ```
-git clone https://github.com/horvitzoff/sendbot.git
+git clone https://github.com/horvitzoff/sendbot-telegram.git
 cd sendbot
 python -m venv venv
 source venv/bin/activate
